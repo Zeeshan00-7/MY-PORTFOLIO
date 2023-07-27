@@ -19,8 +19,8 @@ body{
 .social_icons{
     width: 200px;
     margin: 1rem;
-    font-size: 2rem;
-    color: #00abf0;
+    font-size: 3rem;
+    color: #00aaff;
 }
 .right_side{
     width: 50%;
@@ -37,15 +37,11 @@ body{
     border-top-right-radius: 1rem;
     border-bottom-right-radius: 13rem;
     border-bottom-left-radius: 1rem;
-    border: 5px solid  #00abf0;
+    border: 3px solid  #58d0ff;
 }
-.contant{
-    padding: 1rem;
-    text-align: center;
-    color:#fff;
-}
+
 .content{
-    color:#fff;
+    color: #71d4ff;
     margin-bottom: 1rem;
 }
 .content h3{
@@ -57,20 +53,16 @@ body{
     font-weight: 700;
     padding: .5rem 0;
 }
-.content p{
-    font-size: 1.2rem;
-    font-weight: 400;
-    margin-top: 1rem;
-}
+
 
   .typed_out{
     overflow: hidden;
-    border-right: .15em solid #309dcc;
+    border-right: .15em solid white;
     white-space: nowrap;
     font-size: 1.6rem;
     width: 0;
     animation: typing 5s infinite;
-    color:#00abf0;
+    color:#ffffff;
     animation-delay: 1s;
 }
 

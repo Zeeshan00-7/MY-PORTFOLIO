@@ -6,7 +6,7 @@ const Navbar = () => {
   const [mobileView, setMobileView] = useState(false)
   return (
     <div className={style.container}>
-      <NavLink to='/' className={style.logo}>Sarfraz Ali</NavLink>
+      <NavLink to='/' className={style.logo}>ZEE</NavLink>
     <div className={mobileView ? style.responsive:style.menu}>
     <div className={style.nav}>
       <NavLink to='/' className={style.item}>HOME</NavLink>

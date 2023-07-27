@@ -94,10 +94,9 @@ const Contact = () => {
           disabled={isSubmitting}
         />
          <div className={style.social}>
-          <Link to="https://www.linkedin.com/in/sarfraz-ali-41a547209/" target='blank' className={style.social_icons}><FaLinkedin /></Link>
-          {/* <Link to="https://twitter.com/tasmin_ansari" target='blank' className={style.social_icons}><FaTwitter /></Link> */}
-          <Link to="https://www.instagram.com/rifal_ali_12" target='blank' className={style.social_icons}><GrInstagram/></Link>
-          <Link to="https://github.com/sarfrazali78" target='blank' className={style.social_icons}><FaGithub /></Link>
+          <Link to="https://www.linkedin.com/in/mohd-zeeshan-ansari-544593209/" target='blank' className={style.social_icons}><FaLinkedin /></Link>
+          <Link to="https://www.instagram.com/youth_assassin/" target='blank' className={style.social_icons}><GrInstagram/></Link>
+          <Link to="https://github.com/Zeeshan00-7" target='blank' className={style.social_icons}><FaGithub /></Link>
         </div>
         
       </form>

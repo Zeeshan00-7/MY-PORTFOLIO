@@ -14,23 +14,23 @@ const Education = () => {
       id: 2,
       year: '2018-2022',
       title: 'B.tech in Computer Science and Engineering',
-      university: 'IIMT Engineering College',
-      from:'Meerut, Uttar-pradesh',
+      university: 'IMS Engineering College',
+      from:'Ghaziabad, Uttar-pradesh',
     },
     {
       id: 3,
-      year: '2017-2018',
+      year: '2016-2017',
       title: 'Higher Secondary',
-      university:'L.p Shahi Intermediate College',
-      from:'Muzaffarpur, Bihar',
+      university:'Priyanka Modern Senior Secondary School',
+      from:'Bijnor, Uttar-Pradesh',
     },
 
     {
       id: 4,
-      year: '2015-2016',
+      year: '2014-2015',
       title: ' Secondary',
-      university:'Indraprastha International School',
-      from:'Muzaffarpur, Bihar',
+      university:'Mary And Jesus Convent School',
+      from:'Bijnor, Uttar-Pradesh',
     },
   ]
 

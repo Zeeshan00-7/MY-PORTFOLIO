@@ -17,22 +17,18 @@ const Home = () => {
     <div className={style.container}>
       <div className={style.left_side}>
         <div className={style.content}>
-          <h3>Hello, i am</h3>
-          <h1>Sarfraz Ali</h1>
+          <h3>Hello, I am</h3>
+          <h1>Zeeshan Ansari</h1>
           <h3 className={style.typed_out}>And I'm a <span>Frontend Developer</span></h3>
-            <p>An aspiring Front end Web Developer with a strong interest in projects requiring conceptual and analytical thinking. Self-motivated and
-            hardworking fresher seeking for an opportunity to work a challenging environment to prove my skills and utilize my knowledge & intelligence 
-            in the growth of the organization.
-              </p>
+            {/* < */}
         </div>
         <div className={style.social}>
-          <Link to="https://www.linkedin.com/in/sarfraz-ali-41a547209/" target='blank' className={style.social_icons}><FaLinkedin /></Link>
-          {/* <Link to="https://twitter.com/tasmin_ansari" target='blank' className={style.social_icons}><FaTwitter /></Link> */}
-          <Link to="https://www.instagram.com/rifal_ali_12/" target='blank' className={style.social_icons}><GrInstagram/></Link>
-          <Link to="https://github.com/sarfrazali78" target='blank' className={style.social_icons}><FaGithub /></Link>
+          <Link to="https://www.linkedin.com/in/mohd-zeeshan-ansari-544593209/" target='blank' className={style.social_icons}><FaLinkedin /></Link>
+          <Link to="https://www.instagram.com/youth_assassin/" target='blank' className={style.social_icons}><GrInstagram/></Link>
+          <Link to="https://github.com/Zeeshan00-7" target='blank' className={style.social_icons}><FaGithub /></Link>
         </div>
         <div className={style.btn}>
-          <Link to="https://drive.google.com/file/d/1Eh44PBfuFlcnZgocsI3XFMiQQkS8dH5P/view?usp=sharing" target='blank'><button>Hire Me</button></Link>
+          <Link to="https://drive.google.com/file/d/1201UhCiG6rSbEkgoTEqtcFzUf8lBAst1/view?usp=sharing" target='blank'><button>Hire Me</button></Link>
           <button onClick={getGithub}>Let's Talk</button>
       </div>
       </div>

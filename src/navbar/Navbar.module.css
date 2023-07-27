@@ -1,5 +1,6 @@
 body {
-    background-color: #061520;
+    /* background-color: #00485c; */
+    background-image: url("https://w0.peakpx.com/wallpaper/738/166/HD-wallpaper-blue-digital-background-technology-digital-technology-coding-concepts-blue-technology-background.jpg");
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
@@ -13,17 +14,16 @@ body {
     position: fixed;
     top: 0;
     z-index: 999;
-    background-color: #061520;
+    background-color: #000000;
+    opacity: 75%;
     width: 100vw;
   }
   
   .logo {
-    color: #00abf0;
-    font-size: 1.4rem;
+    color: #5dd1fe;
+    font-size: 2rem;
     font-weight: 700;
-    text-transform: uppercase;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  }
+    font-family: 'Island Moments', cursive; }
   
   .menu {
     display: flex;
@@ -35,8 +35,9 @@ body {
     margin: 1rem 1.5rem;
     padding: 0.2rem 0.5rem;
     font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: 600;
-    color: #fff;
+    color: #9fdcff;
     cursor: pointer;
     text-decoration: none;
     transition: all 0.3s ease-in-out;

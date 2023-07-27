@@ -86,21 +86,17 @@ const About = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.5, duration: 1 }}
           >
-          Hello, I am <span className={style.name}>Sarfraz Ali</span>. I am
+          Hello, I am <span className={style.name}>Zeeshan Ansari</span>. I am
           a front-end web developer. I have completed my Bachelor's  in Computer science and technology from{" "}
           <span className={style.name}>
-            IIMT Engineering College, Meerut, Uttar-pradesh
-          </span>
-          . I am a quick learner and always ready to learn new technologies. I
-          am a team player and can work in a team as well as individually. I am
-          a hard working person and always ready to take challenges. I am a good
-          problem solver and always ready to solve problems. I am a good
-          listener and always ready to listen to others. I am a good
-          communicator and always ready to communicate with others. I am a good
-          leader and always ready to lead a team. I am a good motivator and
-          always ready to motivate others.
+             IMS ENGINEERING COLLEGE , GHAZIABAD.  
+              </span>
+              <br/>
+            A passionate and dedicated Computer Science Engineering graduate actively seeking exciting opportunities to apply my skills and knowledge. With a strong foundation in computer science principles and a drive for innovation, I am eager to contribute to the ever-evolving tech industry.
+
+
           </motion.div>
-          <Link to='https://drive.google.com/file/d/1lbAL7SO_LdzUw3RrPmUnh5ZxMi8miUfb/view?usp=sharing' target="_blank">
+          <Link to='https://drive.google.com/file/d/1201UhCiG6rSbEkgoTEqtcFzUf8lBAst1/view?usp=sharing' target="_blank">
           <motion.button
             className={style.button}
             initial={{ opacity: 0 }}
